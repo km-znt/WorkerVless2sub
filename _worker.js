@@ -1,6 +1,6 @@
 
 let 快速订阅访问入口 = ['auto'];
-let addresses = [];
+let addresses = ["edgetunnel-d5h.pages.dev"];
 let addressesapi = [];
 
 let addressesnotls = [];
@@ -1463,3 +1463,4 @@ export default {
 		}
 	}
 };
+
